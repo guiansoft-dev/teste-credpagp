@@ -40,10 +40,7 @@ php artisan serve
 # front-end
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://user-images.githubusercontent.com/59266968/136734766-dae4cf38-251c-418c-a46c-86f7d6e7ace1.jpeg" width="400"></a></p>
 
-Para o front-end foi usado React.js
-<p No diretório do projeto, você pode executar:</p> 
-
-## Install
+## Como instalar e executar em seu sistema local
 
 ```bash
 cd frontend
