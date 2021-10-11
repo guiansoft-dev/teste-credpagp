@@ -27,9 +27,7 @@ cp .env.example .env
 php artisan key:generate
 ```
 
-```bash
-Add your database config in the .env file (you can check my articles on how to achieve that)
-```
+Adicione a configuração do seu banco de dados no arquivo .env
 
 ```bash
 php artisan migrate
