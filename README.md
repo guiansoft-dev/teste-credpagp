@@ -46,7 +46,7 @@ Para o front-end foi usado React.js
 ## Install
 
 ```bash
-cd backend
+cd frontend
 ```
 
 ```bash
