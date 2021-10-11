@@ -51,7 +51,7 @@ npm install
 ```
 
 ```bash
-yarn start
+npm start
 ```
 
 # Cadastrar novo usuário:
