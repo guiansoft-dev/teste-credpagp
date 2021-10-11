@@ -6,6 +6,8 @@
 Para o front-end foi usado React.js
 <p No diretório do projeto, você pode executar:</p> 
 
+## Install
+
 ```bash
 yarn start
 ```
