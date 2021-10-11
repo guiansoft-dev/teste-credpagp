@@ -8,15 +8,15 @@
 ## Como instalar e executar em seu sistema local
 
 ```bash
+git clone https://github.com/guiansoft-dev/teste-credpagp.git
+```
+
+```bash
 cd backend
 ```
 
 ```bash
 composer install
-```
-
-```bash
-npm install
 ```
 
 ```bash
@@ -46,8 +46,13 @@ Para o front-end foi usado React.js
 <p No diretório do projeto, você pode executar:</p> 
 
 ## Install
+
 ```bash
-git clone https://github.com/guiansoft-dev/teste-credpagp.git
+cd backend
+```
+
+```bash
+npm install
 ```
 
 ```bash
