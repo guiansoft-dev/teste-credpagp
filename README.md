@@ -1,7 +1,7 @@
 # teste-credpago
 
 # front-end
-<p align="center"><a href="https://reactjs.com" target="_blank"><img src="https://raw.githubusercontent.com/reactjs/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/reactjs-logolockup-cmyk-red.svg" width="400"></a></p>
+![!0339c8e835cdcbe2b14071d34d069056ba93046f4f7e74f5db75fb475d911b33](https://user-images.githubusercontent.com/59266968/136734766-dae4cf38-251c-418c-a46c-86f7d6e7ace1.jpeg)
 
 Para o front-end foi usado React.js
 No diretório do projeto, você pode executar: 
