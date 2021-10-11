@@ -1,5 +1,5 @@
 # CredPago
-<p align="center"><a href="https://credpago.com.br" target="_blank"><img src="https://user-images.githubusercontent.com/59266968/136737183-54ab96b6-c7f7-43dc-bb90-215edf96fd00.png width="400"></a></p>
+<p align="center"><a href="https://credpago.com.br" target="_blank"><img src="https://user-images.githubusercontent.com/59266968/136737183-54ab96b6-c7f7-43dc-bb90-215edf96fd00.png" width="400"></a></p>
 
 ## back-end
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
