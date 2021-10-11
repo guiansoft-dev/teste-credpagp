@@ -1,4 +1,3 @@
-# CredPago
 <p align="center"><a href="https://credpago.com.br" target="_blank"><img src="https://user-images.githubusercontent.com/59266968/136737183-54ab96b6-c7f7-43dc-bb90-215edf96fd00.png" width="400"></a></p>
 
 ## back-end
