@@ -62,3 +62,7 @@ npm start
 
 # Adicionar um novo website, editar e excluir:
 ![Screenshot(3)](https://user-images.githubusercontent.com/59266968/136733901-651c5e42-422e-440f-a64a-7e19938a5662.png)
+
+## License
+
+MIT © [CredPago](https://github.com/guiansoft-dev)
